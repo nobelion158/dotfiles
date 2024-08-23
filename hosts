@@ -1,0 +1,36 @@
+# blr hosts
+10.72.99.83 sn1
+10.72.99.71 sn2
+10.72.99.23 sn3
+
+10.72.99.25 sn4
+10.72.99.27 sn5
+
+10.72.99.199 blr-sn3-mdh
+10.72.99.138 blr-sn3-ps360-mdh
+
+10.72.99.23 kafka # naming sn3 as kafka host - GU test case
+
+# 1sjc5 servers
+172.20.1.23 sjc-sn1
+172.20.1.34 sjc-sn2
+172.20.1.32 sjc-sn3
+172.20.1.13 sjc-stage-sn1
+172.20.1.15 sjc-stage-sn2
+172.20.1.25 sjc-stage-sn3
+172.20.1.30 sjc-demo-sn3
+172.20.1.27 sjc-demo-sn2
+172.20.1.17 sjc-demo-sn1
+172.20.42.13 25sft2-prod-sn2
+
+172.20.2.161 sjc-mdh
+
+172.20.42.72 sft-mdh-2
+172.20.42.73 sft-mdh-3
+
+# 1atl6 servers
+172.20.1.76 atl-prod-sn2
+
+
+# PROD SERVERS
+172.20.25.13 6shv1-prod-sn2

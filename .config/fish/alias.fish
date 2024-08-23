@@ -1,0 +1,2 @@
+# general
+alias lzg='lazygit'
