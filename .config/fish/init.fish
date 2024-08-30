@@ -17,6 +17,7 @@ end
 
 
 starship init fish | source
+zoxide init fish | source
 
 function fish_greeting
     fortune -a
